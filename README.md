@@ -1,4 +1,4 @@
-# Book Finder and Bookmark App
+# Book Finder and Bookmark App--https://665f239b7c592c10ca439e2f--personal-bookshelf-suvidh.netlify.app/
 
 ## Overview
 
@@ -15,7 +15,7 @@ This project is a simple React application that allows users to search for books
 
 - **React**: For building the user interface.
 - **Open Library API**: For fetching book information.
-- **CSS**: For styling the components.
+- **TailWindCSS**: For styling the components.
 
 ## Getting Started
 
