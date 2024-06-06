@@ -1,8 +1,49 @@
-# React + Vite
+# Book Finder and Bookmark App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project is a simple React application that allows users to search for books using the Open Library API. Users can enter the name of a book, fetch information about it, and add selected books to a bookmarks page for future reference.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Search for Books**: Users can search for books by their name using the Open Library API.
+- **View Book Details**: Displays details of the searched books including title, author, and cover image.
+- **Add to Bookmarks**: Users can add books to a bookmarks page.
+- **View Bookmarks**: Users can view all the books they have bookmarked.
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **Open Library API**: For fetching book information.
+- **CSS**: For styling the components.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js (v14 or later)
+- npm (v6 or later)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/book-finder-app.git
+   
+2. Navigate to project Repo
+    ```bash
+    cd book-finder-app
+
+3.Install the dependecies
+    
+     npm install
+
+4.Run the application
+
+     npm run dev
+
+## Contact
+For any inquiries or feedback, please contact [Suvidh Kaushik]([kaushiksuvidh6@gmail.com]).
+      
